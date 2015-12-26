@@ -1,0 +1,3 @@
+# githubNotetaker
+
+ios and android
